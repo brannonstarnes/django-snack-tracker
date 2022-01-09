@@ -4,4 +4,4 @@ Creates a basic Django Website that tracks snacks! Who bought them, what kind of
 
 Utilizes Django models and database.
 
-[Pull Request](https://github.com/brannonstarnes/django-snack-tracker/pull/1)
+[Pull Request](https://github.com/brannonstarnes/django-snack-tracker/pull/2)
